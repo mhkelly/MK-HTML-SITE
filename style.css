@@ -1,0 +1,58 @@
+body {
+    background-color: #feafa3;
+}
+h1 {
+    font-family: 'Reenie Beanie', cursive;
+    color: rgb(39, 10, 10);
+    font-size: 3em;
+    letter-spacing: 5px;
+}
+
+h2 {
+    font-family: 'Reenie Beanie', cursive;
+    color: rgb(39, 10, 10);
+    font-size: 2em;
+    letter-spacing: 5px; 
+}
+p {
+    font-family: 'Times New Roman', cursive;
+    color: rgb(39, 10, 10);
+    font-size: 1em;
+    letter-spacing: 5px;
+}
+#getinTouch {
+    background-color: #feafa3;  
+    font-family: 'Reenie Beanie', cursive;
+    color: rgb(39, 10, 10);
+    font-size: 3em;
+    letter-spacing: 5px;
+}
+<style>
+.fa {
+  padding: 100px;
+  font-size: 30px;
+  width: 1000px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  li {
+    font-family: 'Times New Roman', cursive;
+    color: rgb(39, 10, 10);
+    font-size: 1em;
+    letter-spacing: 5px; 
+  }
